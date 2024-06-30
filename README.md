@@ -1,6 +1,6 @@
 # OS_Spider_Common
 
-The deadlock.c file is the amswer for the deadlock handling question and fifo.java file is the answer for process management question.
+The deadlock.c file is the answer for the deadlock handling question and fifo.java file is the answer for process management question.
 
 Explanation for Question 1:
 
